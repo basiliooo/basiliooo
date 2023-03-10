@@ -16,7 +16,7 @@
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    </div>
-  
+ <br>
   <div>
     <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: nickbasilio71@gmail.com">
@@ -26,3 +26,5 @@
       <img width="25" src="linkedin.svg">
     </a>
 </div>
+
+  ![Snake animation](https://github.com/LuigiGF/Barilio/blob/output/github-contribution-grid-snake.svg)
