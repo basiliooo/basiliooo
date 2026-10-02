@@ -30,7 +30,7 @@
   <a href="https://www.linkedin.com/in/nicolas-basilio-a47241235/" target="_blank" style="margin-right: 12px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
   </a>
-  <a href="https://www.instagram.com/nickbasilio_" target="_blank" style="margin-right: 12px;">
+  <a href="https://www.instagram.com/basilioo.design" target="_blank" style="margin-right: 12px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" />
   </a>
   <a href="https://www.basiliodesign.com/" target="_blank" style="margin-right: 12px;">
