@@ -20,7 +20,7 @@
 
 - 💡 Eu construo produtos digitais imersivos, interfaces focadas em conversão e automações orientadas a dados
 
-- 📫 Como entrar em contato: **nickbasilio71@gmail.com** & [Meu Portfólio](https://www.basiliodesign.com/)
+- 📫 Como entrar em contato: **contato@basiliodesign.com** & [Meu Portfólio](https://www.basiliodesign.com/)
 
 ---
 
