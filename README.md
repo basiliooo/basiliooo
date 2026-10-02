@@ -1,35 +1,39 @@
-## Iae tudo bem? Nicolas aqui!
-<br>
+<h1 align="center">Olá 👋, eu sou o Nicolas</h1>
+<h3 align="center">Product Designer Pleno & AI Automator</h3>
 
-- 🖥️  Estudante de Análise e Desenvolvimento de Sistemas
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=basiliooo&label=Profile%20views&color=0e75b6&style=flat" alt="Nicolas Basílio" />
+</p>
 
-- 🌱 Atualmente estudando Python 
+<p align="left">
+  <a href="https://www.linkedin.com/in/nicolas-basilio-a47241235/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://www.basiliodesign.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+  </a>
+</p>
 
-<br>
+- 🔭 Liderando e arquitetando soluções de Design e Inteligência Artificial na [Basílio Design](https://www.basiliodesign.com/)
 
-<div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=basiliooo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basiliooo&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-<br>
+- 🌱 Refinando minhas habilidades em **UX/UI, Agentes Autônomos (Hermes), Python e Motion**
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Linguagens 📊</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   </div>
- <br>
-  <div>
-    <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: nickbasilio71@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/nicolas-basilio-a47241235/">
-      <img width="25" src="linkedin.svg">
-    </a>
-</div>
+- 💡 Eu construo produtos digitais imersivos, interfaces focadas em conversão e automações orientadas a dados
+
+- 📫 Como entrar em contato: **nickbasilio71@gmail.com** & [Meu Portfólio](https://www.basiliodesign.com/)
+
+---
+
+<h3 align="left">Conecte-se comigo:</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nicolas-basilio-a47241235/" target="_blank" style="margin-right: 12px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
+  </a>
+  <a href="https://www.instagram.com/nickbasilio_" target="_blank" style="margin-right: 12px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" />
+  </a>
+  <a href="https://www.basiliodesign.com/" target="_blank" style="margin-right: 12px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="30" />
+  </a>
+</p>
